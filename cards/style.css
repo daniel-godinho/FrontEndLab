@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+body {
+  background: #131416;
+  padding: 50px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 12px;
+}

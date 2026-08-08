@@ -1,16 +1,14 @@
 # 📚 Estudos de Front-End
 
-Este é o meu repositório de estudos e anotações sobre desenvolvimento **front-end**. Aqui, organizo e pratico os conceitos que estou aprendendo para construir interfaces e experiências de usuário incríveis!
+Repositório de estudos e experimentos sobre desenvolvimento **front-end**. Aqui organizo e pratico os conceitos que estou aprendendo para construir interfaces e experiências de usuário incríveis!
 
 ---
 
 ### 🚀 Tecnologias e Conteúdo
 
-Os estudos são baseados principalmente nas aulas do professor **Gustavo Guanabara** no [Curso em Vídeo](https://www.cursoemvideo.com/).
+Os estudos começaram com as aulas do professor **Gustavo Guanabara** no [Curso em Vídeo](https://www.cursoemvideo.com/) e foram expandindo com projetos e experimentos próprios.
 
-* **Módulo 1:** Primeiros passos em HTML5 e CSS3
-    * `HTML5`: Estrutura básica, tags e semântica.
-    * `CSS3`: Estilização básica, seletores e cores.
+`HTML5` `CSS3` `JavaScript` `Angular`
 
 ---
 

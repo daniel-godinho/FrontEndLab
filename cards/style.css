@@ -10,8 +10,24 @@ body {
   padding: 50px;
 }
 
-button {
-  font-size: 16px;
-  padding: 10px 20px;
-  border-radius: 12px;
+.carroussel {
+  width: 100%;
+  overflow: hidden;
+}
+
+.cards {
+  display: flex;
+  width: 200%;
+  transition: all 0.3s;
+}
+
+.card {
+  width: 16.66%;
+  flex-shrink: 0;
+  aspect-ratio: 2/3;
+}
+
+.card-background {
+  width: 100%;
+  height: 100%;
 }
